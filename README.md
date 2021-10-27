@@ -1,6 +1,6 @@
-- 👋 Hi to everyone i’m Nahuel De Fazio a Frontend Developer
+- 👋 Hi to everyone i’m Nahuel De Fazio a Frontend Developer in process of being a Fullstack
 - 👀 I’m interested in making proyects to increase my skills
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJs for Frontend and for Backend im using NodeJS with Express
 - 📫 If you want, you can email me to nahuel1116@gmail.com
 
 <!---

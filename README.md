@@ -1,7 +1,13 @@
-- 👋 Hi to everyone i’m Nahuel De Fazio a Frontend Developer in process of being a Fullstack
-- 👀 I’m interested in making proyects to increase my skills
-- 🌱 I’m currently working for Finnegans (Fintech) learning Angular for Frontend and for Backend im using NodeJS with Express
-- 📫 If you want, you can email me to nahuel1116@gmail.com
+👋 Hello! I’m Nahuel De Fazio, a Frontend Developer transitioning into Fullstack development.
+
+👀 I’m passionate about building projects to enhance my technical skills and grow as a developer.
+
+🌱 Currently, I work at Finnegans (Fintech), using Angular for Frontend and Golang & Node.js with Express for Backend development.
+
+🎓 I’m also studying Cybersecurity at Education IT to expand my knowledge in security and IT best practices.
+
+📫 Feel free to reach out at defazionahuel@gmail.com
+
 
 <!---
 nahueldefazio/nahueldefazio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
